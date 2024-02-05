@@ -1,0 +1,20 @@
+body{
+    display: flex;
+    flex-direction: column;
+}
+
+.header{
+    background-color: #1F2937;
+    display: flex;
+}
+.header-logo{
+    font-size: 24px;
+    color:#f9faf8;
+}
+ul{
+    list-style-type: none;
+    display: flex;
+}
+a{
+    text-decoration: none;
+}
