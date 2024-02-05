@@ -120,3 +120,72 @@ a{
     padding:5px;
 
 }
+
+.lower-content{
+    background-color: #e5e7eb;
+    padding:50px;
+}
+
+.lower-content .quote-body{
+    font-size: 36px; 
+    font-weight:lighter; 
+    font-style: italic;
+    color: #1f2937;
+    text-align: center;
+}
+
+.lower-content .quote-author{
+    font-size: large;
+    font-weight: bold;
+    color: #1f2937;
+    text-align: right;
+    margin-right: 40px;
+}
+
+.call-to-action{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding:40px;
+}
+.call-content{
+    padding:50px;
+    background-color: #3882f6;
+    border-radius: 10px;
+    width:70vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.call-content .left{
+    margin-right: 80px;
+    color:#e5e7eb;
+}
+.call-content .right{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.left div:nth-child(1){
+    font-size: x-large;
+    font-weight: bold;
+}
+.call-content button{
+    background-color: #3882f6;
+    width:10vw;
+    border-radius: 10px;
+    border-color: #e5e7eb;
+    height:auto;
+    padding:10px;
+    color:#e5e7eb;
+}
+
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1f2937;
+    padding:10px;
+    color:#e5e7eb
+}
