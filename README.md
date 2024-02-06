@@ -1,1 +1,1 @@
-# project-landing-page-relearn
+Landing page project from the The Odin Project curriculum to practice my HTML/CSS skills. Haven't thought much about the design of the landing page as I focused more on practicing my flex skills. Tried my best to actually copy the output provided by the curriculum. All images used were stock images, all credits go to their rightful owners, thank you. 
